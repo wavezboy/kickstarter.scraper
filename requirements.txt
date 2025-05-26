@@ -1,0 +1,10 @@
+selenium==4.16.0
+beautifulsoup4==4.12.2
+webdriver-manager==4.0.1
+requests==2.31.0
+tqdm==4.66.1
+lxml==4.9.3
+psycopg2-binary==2.9.9
+schedule==1.2.1
+python-dotenv==1.0.0
+argparse==1.4.0
