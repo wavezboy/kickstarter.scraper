@@ -27,3 +27,4 @@ scraper_checkpoint.json
 chrome_debug_profile/
 .idea/
 .vscode/
+venv/
